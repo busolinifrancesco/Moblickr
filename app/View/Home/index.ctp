@@ -6,6 +6,7 @@
   </div>
   <div data-role="content">
     <p>This is the main content of the <strong>first **AMAZING!!** page</strong>.</p>
+    <p>I'm sure that we'll enjoy this mobile framework!</p>
     <p>You can go to the <a href="#page2">second page</a>.</p>
     <a href="#page2" data-role="button">Click me!</a>
   </div>
